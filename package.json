@@ -1,0 +1,11 @@
+{
+  "name": "aljonadamos-midterm-lab-a",
+  "version": "1.0.0",
+  "description": "Create a node.js application that utilizes a file as data input see (f-01). Your app should generate and process from data input see (o-01). Modify your package.json.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aljon adamos",
+  "license": "ISC"
+}

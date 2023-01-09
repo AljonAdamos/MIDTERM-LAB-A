@@ -1,0 +1,1 @@
+[{"employee":"John", "role": "Web Developer", "department": "Shop 01"}, {"employee":"Ruel", "role": "Software Developer", "department": "Finance"}, {"employee":"Johnson", "role": "Tester", "department": "Shop"}, {"employee":"Jessa", "role": "Projet Manager", "department": "Finance"}]
